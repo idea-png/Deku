@@ -1,25 +1,137 @@
 [
     {
-        "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "session": "bot1",
+        "token": "8342246271:AAFRXpYuswLFeY1qyx3ieu7YQJvTMZw_usY",
+        "api_id": "26944587",
+        "api_hash": "7261a455f2a6159b8a2fbfecd1a63004",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
-        "db_name": "name",
-        "fsubs": [[-1002074478106, true, 5]],
-        "db": -1002074478106,
-        "auto_del": 0,
+        "db_uri": "mongodb+srv://kojar29650:h8jvNvpyteVB8AzM@cluster0.uywzxza.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "bot1",
+        "fsubs": [[-1002477562946, false, 10]],
+        "db": -1002541601342,
+        "auto_del": 600,
         "messages": {
-            "START": "<blockquote expandable>__Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit sed.\nVivamus luctus urna sed urna.\nCurabitur blandit tempus porttitor.\nNullam quis risus eget urna.__</blockquote>",
-            "FSUB": "",
-            "ABOUT": "ABOUT MSG",
-            "REPLY": "reply_text",
-            "START_PHOTO": "",
-            "FSUB_PHOTO": ""
+            "START": "<b>Hi There... {mention}! 💥\n\nI am a file-store bot.\nI can generate links directly with no problems\n\nMy Owner: @CREWFLIX</b>",
+            "FSUB": "Hello There..!⚡\n\n🫧Please join both of our channels first then try again...!",
+            "ABOUT": "<b><i>About Us..\n\n‣ Made for : @Anime_nohara\n‣ Owner : @Diablovolfir0\n‣ Worked For : @crewflix\n‣ Developer : @The_Seishiro_Nagi\n\n Adios !!</i></b>",
+            "REPLY": "<b>For More Join - @Crewflix</b>",
+            "START_PHOTO": "https://telegra.ph/file/5fddc0cb53713c2166161-8f9a44cf67d8633c2c.jpg",
+            "FSUB_PHOTO": "https://telegra.ph/file/ce313689202de1f38afc7-43265ec5f4d1ad77eb.jpg"
         },
-        "admins": [78324663, 73468932],
+        "admins": [6888478102, 8455436361],
+        "disable_btn": true,
+        "protect": false
+    },
+    {
+        "session": "bot2",
+        "token": "8742200109:AAEq05NX_whrHsl_xUyasdEJO85Wk4i8HC8",
+        "api_id": "26944587",
+        "api_hash": "7261a455f2a6159b8a2fbfecd1a63004",
+        "workers": 8,
+        "db_uri": "mongodb+srv://kojar29650:h8jvNvpyteVB8AzM@cluster0.uywzxza.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "bot2",
+        "fsubs": [[-1002715117784, false, 10], [-1003718714492, false, 10]],
+        "db": -1003763877447,
+        "auto_del": 600,
+        "messages": {
+            "START": "<b>Hi There... {mention}! 💥\n\nI am a file-store bot.\nI can generate links directly with no problems\n\nMy Owner: @Anime_Nohara</b>",
+            "FSUB": "Hello There..!⚡\n\n🫧Please join both of our channels first then try again...!",
+            "ABOUT": "<b><i>About Us..\n\n‣ Made for : @Anime_Nohara\n‣ Owner : @Diablovolfir0\n‣ Worked For : @Nohara_Network\n‣ Developer : @The_Seishiro_Nagi\n\n Adios !!</i></b>",
+            "REPLY": "<b>For More Join - @Anime_Nohara</b>",
+            "START_PHOTO": "https://graph.org/file/c8619d3c73130af9d04b9-66239884542a127bdc.jpg",
+            "FSUB_PHOTO": "https://graph.org/file/d8685b5ed1fb34e928fb8-e5059c3dd087c2dced.jpg"
+        },
+        "admins": [8531489053],
+        "disable_btn": true,
+        "protect": false
+    },
+    {
+        "session": "bot3",
+        "token": "8568732247:AAEKcNai6dRLlxggBxtA9UCRk1PZV6fatbA",
+        "api_id": "26944587",
+        "api_hash": "7261a455f2a6159b8a2fbfecd1a63004",
+        "workers": 8,
+        "db_uri": "mongodb+srv://kojar29650:h8jvNvpyteVB8AzM@cluster0.uywzxza.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "bot3",
+        "fsubs": [[-1003872535070, false, 10]],
+        "db": -1003718752571,
+        "auto_del": 600,
+        "messages": {
+            "START": "<b>Hi There... {mention}! 💥\n\nI am a file-store bot.\nI can generate links directly with no problems\n\nMy Owner: @POONFLIX</b>",
+            "FSUB": "Hello There..!⚡\n\n🫧Please join both of our channels first then try again...!",
+            "ABOUT": "<b><i>About Us..\n\n‣ Made for : @Anime_Nohara\n‣ Owner : @Diablovolfir0\n‣ Worked For : @Poonflix\n‣ Developer : @The_Seishiro_Nagi\n\n Adios !!</i></b>",
+            "REPLY": "<b>For More Join - @Poonflix</b>",
+            "START_PHOTO": "https://telegra.ph/file/ff05aa83d7a9bcbe23f6c-32523854411412a11c.jpg",
+            "FSUB_PHOTO": "https://telegra.ph/file/0a5a387ce9f3e6aed3aaf-2b93cfa5d8c61c734c.jpg"
+        },
+        "admins": [8531489053],
+        "disable_btn": true,
+        "protect": false
+    },
+    {
+        "session": "bot4",
+        "token": "8547058766:AAEfI_IRyLX2FqvCOUn9odAhUkQik8rmt_0",
+        "api_id": "26944587",
+        "api_hash": "7261a455f2a6159b8a2fbfecd1a63004",
+        "workers": 8,
+        "db_uri": "mongodb+srv://kojar29650:h8jvNvpyteVB8AzM@cluster0.uywzxza.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "bot4",
+        "fsubs": [[-1003613863187, false, 10]],
+        "db": -1003528692133,
+        "auto_del": 600,
+        "messages": {
+            "START": "<b>Hi There... {mention}! 💥\n\nI am a file-store bot.\nI can generate links directly with no problems\n\nMy Owner: @Anime_Mines</b>",
+            "FSUB": "Hello There..!⚡\n\n🫧Please join both of our channels first then try again...!",
+            "ABOUT": "<b><i>About Us..\n\n‣ Made for : @Amine_Mines\n‣ Owner : @Diablovolfir0\n‣ Worked For : @Poonflix\n‣ Developer : @The_Seishiro_Nagi\n\n Adios !!</i></b>",
+            "REPLY": "<b>For More Join - @Anime_Mines</b>",
+            "START_PHOTO": "https://graph.org/file/add8c19df8bf2ca8c98d1-ea1504f415c5cc33c7.jpg",
+            "FSUB_PHOTO": "https://graph.org/file/71e861c73ff80e047048d-e4ad437d87e54cf85c.jpg"
+        },
+        "admins": [7890071874],
+        "disable_btn": true,
+        "protect": false
+     },
+     {
+        "session": "bot5",
+        "token": "8366193299:AAFwnW1CTWHCNwgNefmE7RDWqjZOEFSmkJA",
+        "api_id": "26944587",
+        "api_hash": "7261a455f2a6159b8a2fbfecd1a63004",
+        "workers": 8,
+        "db_uri": "mongodb+srv://otxstudioofficial1_db_user:MEAH3IXpZFAxHHew@cluster0.n23pbwq.mongodb.net/?appName=Cluster0",
+        "db_name": "bot5",
+        "fsubs": [[-1002477562946, false, 10]],
+        "db": -1002541601342,
+        "auto_del": 600,
+        "messages": {
+            "START": "<b>Hi There... {mention}! 💥\n\nI am a file-store bot.\nI can generate links directly with no problems\n\nMy Owner: @CREWFLIX</b>",
+            "FSUB": "Hello There..!⚡\n\n🫧Please join both of our channels first then try again...!",
+            "ABOUT": "<b><i>About Us..\n\n‣ Made for : @PLIXTV\n‣ Owner : @Diablovolfir0\n‣ Worked For : @crewflix\n‣ Developer : @PLIXTV\n\n Adios !!</i></b>",
+            "REPLY": "<b>For More Join - @plixTV</b>",
+            "START_PHOTO": "https://telegra.ph/file/5fddc0cb53713c2166161-8f9a44cf67d8633c2c.jpg",
+            "FSUB_PHOTO": "https://telegra.ph/file/ce313689202de1f38afc7-43265ec5f4d1ad77eb.jpg"
+        },
+        "admins": [6888478102, 8455436361],
         "disable_btn": true,
         "protect": false
     }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
